@@ -35,6 +35,6 @@ This file helps plot the perturbation plot of accuracy with respect to the facto
 This file helps in generating a Grad-CAM image.
 
 ## Report and analysis outcome 
-The report for the analysis can be found [here][https://github.com/Shobhit20/classical_and_deep_comparison/blob/main/IVC%20report.pdf]
+The report for the analysis can be found [here](https://github.com/Shobhit20/classical_and_deep_comparison/blob/main/IVC%20report.pdf)
 
 
